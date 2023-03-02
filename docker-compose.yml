@@ -12,7 +12,7 @@ services:
       DOKUWIKI_PASSWORD: admin
       TZ: Asia/Tokyo
     volumes:
-      - dokuwiki:/bitnami/dokuwiki
+      - ./config:/config
 volumes:
   dokuwiki:
     driver: local
