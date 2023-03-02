@@ -2,8 +2,8 @@
 Windows10＋RancharDesktop環境でDockerのDokuWikiを構築（Wiki構築）
 
 ## 環境
-OS：Windows 10 Pro 21H2
-RancharDesktop：1.7.0
+- OS：Windows 10 Pro 21H2
+- RancharDesktop：1.7.0
 
 > **Note**
 - bitna> **Warning**meは動かない
