@@ -1,0 +1,18 @@
+version: '3.8'
+services:
+  dokuwiki:
+    image: 'lscr.io/linuxserver/dokuwiki:latest'
+    container_name: dokuwiki
+    restart: unless-stopped
+    ports:
+      - '8080:80'
+      - '8443:443'
+    environment:
+      DOKUWIKI_USERNAME: admin
+      DOKUWIKI_PASSWORD: admin
+      TZ: Asia/Tokyo
+    volumes:
+      - dokuwiki:/bitnami/dokuwiki
+volumes:
+  dokuwiki:
+    driver: local
