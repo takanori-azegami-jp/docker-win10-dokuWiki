@@ -35,5 +35,5 @@ http://localhost:8080
 
 
 ## 参考
-[docker-composeを利用してDokuWikiを構築する](https://mebee.info/2020/07/04/post-13052/)
-[DokuwikiをDockerで構築](https://qiita.com/tan102422/items/d10ff7a8ba9f4d1fd69b)
+- [docker-composeを利用してDokuWikiを構築する](https://mebee.info/2020/07/04/post-13052/)
+- [DokuwikiをDockerで構築](https://qiita.com/tan102422/items/d10ff7a8ba9f4d1fd69b)
