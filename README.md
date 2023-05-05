@@ -5,9 +5,6 @@ Windows10＋RancharDesktop環境でDockerのDokuWikiを構築（Wiki構築）
 - OS：Windows 10 Pro 21H2
 - RancharDesktop：1.7.0
 
-> **Warning**
-- bitnaは動かない
-
 ## Dockerコマンド
 ``` bash
 # Docker-compose実行
